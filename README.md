@@ -22,15 +22,15 @@ Sou um **Desenvolvedor Full-Stack** apaixonado por tecnologia e soluções inova
 
 📫 **Entre em contato:**
 
-- 💼 [LinkedIn](#)  
-- 📧 Email: [SEU EMAIL]  
-- 🚀 [Portfólio](#)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/vtssbr/)  
+- 📧 Email: vitorsouzasilva121@gmail.com
+- 🚀 [Portfólio](https://vtssweb.vercel.app/)  
 
 📊 **Estatísticas do GitHub:**
 
 <p align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VtssBR&show_icons=true&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VtssBR&layout=compact&theme=radical" />
 </p>
 
 ⭐ **Se gostou do meu trabalho, não esqueça de deixar uma estrela em algum repositório!**
