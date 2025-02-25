@@ -1,5 +1,5 @@
 
-## 👋 Olá, eu sou [SEU NOME]!
+## 👋 Olá, eu sou o Vitor!
 
 Sou um **Desenvolvedor Full-Stack** apaixonado por tecnologia e soluções inovadoras. Trabalho com **JavaScript, TypeScript, React e Node.js**, desenvolvendo aplicações modernas e performáticas. Atualmente, atuo em projetos freelancers que envolvem **integração de APIs, criação de interfaces responsivas** e **otimização de aplicações web**.
 
