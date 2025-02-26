@@ -29,7 +29,7 @@ Sou um **Desenvolvedor Full-Stack** apaixonado por tecnologia e soluções inova
 📊 **Estatísticas do GitHub:**
 
 <p align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VtssBR&show_icons=true&hide=stars,prs,issues,contribs&theme=blue_navy" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VtssBR&show_icons=true&hide=stars,issues&theme=blue_navy" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VtssBR&layout=compact&theme=blue_navy" />
 </p>
 
