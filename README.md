@@ -23,8 +23,8 @@ Sou um **Desenvolvedor Full-Stack** apaixonado por tecnologia e soluções inova
 📫 **Entre em contato:**
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/vtssbr/)  
+- 🚀 [Portfólio](https://vtssweb.vercel.app/)
 - 📧 Email: vitorsouzasilva121@gmail.com
-- 🚀 [Portfólio](https://vtssweb.vercel.app/)  
 
 📊 **Estatísticas do GitHub:**
 
