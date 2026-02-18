@@ -9,8 +9,8 @@ Sou um **Desenvolvedor Full-Stack** apaixonado por tecnologia e soluções inova
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,prisma,postgres,tailwind,vite,docker,aws,git,github" alt="Tech Stack" />
 </p>
 
-🔹 **Back-end:** Express, Prisma ORM, PostgreSQL  
-🔹 **Front-end:** React, Tailwind CSS, Vite  
+🔹 **Back-end:** Node.js, Fastify, TRPC, Typescript
+🔹 **Front-end:** React, Tailwind CSS, Typescript, Next
 🔹 **DevOps:** Docker, AWS (em aprendizado)  
 🔹 **Versionamento:** Git & GitHub  
 🔹 **Deploy:** Vercel, Render  
@@ -26,11 +26,5 @@ Sou um **Desenvolvedor Full-Stack** apaixonado por tecnologia e soluções inova
 - 🚀 [Portfólio](https://vtssweb.vercel.app/)
 - 📧 Email: vitorsouzasilva121@gmail.com
 
-📊 **Estatísticas do GitHub:**
-
-<p align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VtssBR&show_icons=true&hide=stars,issues&theme=blue_navy" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VtssBR&layout=compact&theme=blue_navy" />
-</p>
 
 ⭐ **Se gostou do meu trabalho, não esqueça de deixar uma estrela em algum repositório!**
